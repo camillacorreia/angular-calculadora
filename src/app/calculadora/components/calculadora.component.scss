@@ -1,0 +1,30 @@
+.container-fluid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+
+  form {
+    width: 500px;
+  }
+
+  .kz-btn {
+    width: 90%;
+    margin: 4px;
+  }
+
+  .kz-input-text {
+    margin-top: 3px;
+    width:96%;
+    margin-left:6px
+  }
+
+  .kz-pad-20 {
+  padding: 20px;
+  }
+
+  .col-xs-3, .col-xs-9 {
+  padding: 0px;
+  }
+}
